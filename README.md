@@ -11,6 +11,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikosecsos&theme=monokai)
 
 
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
+
 <!--
 **MikoSecSoS/MikoSecSoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
